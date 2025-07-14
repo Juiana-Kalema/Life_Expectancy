@@ -207,3 +207,6 @@ marimo/_lsp/
 __marimo__/
 
 life_expectancy_trial.ipynb
+cleaned_bmi_data.csv
+cleaned_gdp_data.csv
+Cleaned_Life_Expectancy_Countrywise_Final.csv
